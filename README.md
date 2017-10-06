@@ -1,6 +1,6 @@
 # Transform_Image_Colors
 
-###just reduce each rgb chanel of the image to 2, 4, 8 or 16 colors or get then and change it grayscale level.
+#### just reduce each rgb chanel of the image to 2, 4, 8 or 16 colors or get then and change it grayscale level (with a scroll bar).
 
 >using opencv python and numpy
 
